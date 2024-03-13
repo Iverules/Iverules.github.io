@@ -1,0 +1,60 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgba(251, 248, 252, 0.986);
+    width: 100%;
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+header ul li {
+    margin: 15px;
+   
+    }
+    
+header img {
+    width: 150px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
+
+
+
+.conteiner img{
+        width: 100%;
+        height: auto;
+}
+
+
+
+
+
+.inicio{
+    margin: 50px;
+}
+.contacto img{
+    width: 100px;
+}
+
+.carousel {
+    max-width: 500px; 
+    margin: auto; 
+}
+.carousel-item img {
+    max-width: 100%;
+    height: auto;
+} 
+footer {
+    background-color: #333; 
+    color: #fff;
+    padding: 20px
+    }
